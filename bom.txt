@@ -1,0 +1,20 @@
+Quoted (19 components)
+	J6 	Conn_Coaxial 	172323 	Amphenol RF 	n 		€9.30
+	J4 	Conn_Coaxial 	172323 	Amphenol RF 	n 		€9.30
+	J3 	Conn_Coaxial 	172323 	Amphenol RF 	n 		€9.30
+	J1 	Conn_Coaxial 	172323 	Amphenol RF 	n 		€9.30
+	C4 	1uF 	C330C105K1R5TA 	KEMET 	c disc d4.7mm w2.5mm p5.00mm 		€1.38
+	C10 	1uF 	C330C105K1R5TA 	KEMET 	c disc d4.3mm w1.9mm p5.00mm 		€1.38
+	C6 	0.1uF 	C330C104K2R5TA7301 	KEMET 	c disc d4.7mm w2.5mm p5.00mm 		€0.35
+	C12 	0.1uF 	C330C104K2R5TA7301 	KEMET 	c disc d4.3mm w1.9mm p5.00mm 		€0.35
+	C5 	100uF 	C315C101K2R5TA 	KEMET 	c disc d3.0mm w2.0mm p2.50mm 		€0.29
+	C11 	100uF 	C315C101K2R5TA 	KEMET 	c disc d3.8mm w2.6mm p2.50mm 		€0.29
+	D2 	D 	STPS10L60D 	STMicroelectronics 	to-220-2 vertical 		€1.07
+	D1 	D 	STPS10L60D 	STMicroelectronics 	to-220-2 vertical 		€1.07
+	F1 	10A 	178.6764.0001 	Littelfuse Inc. 	fuseholder blade ato littelfuse pudenz 2 pin 		€2.26
+	L2 	1140-101K-RC 	1140-101K-RC 	Bourns Inc. 	indrd2921w163d3810h2616p 		€7.18
+	L1 	1140-101K-RC 	1140-101K-RC 	Bourns Inc. 	indrd2921w163d3810h2616p 		€7.18
+	C2 	33 pF 	CC45SL3FD330JYNNA 	TDK Corporation 	c disc d8.0mm w5.0mm p7.50mm 		€0.34
+	C1 	33 pF 	CC45SL3FD330JYNNA 	TDK Corporation 	c disc d8.0mm w5.0mm p7.50mm 		€0.34
+	LA1 	Lamp 	FL1M-8SW-1-G24V 	Mallory Sonalert 
+	LA1 	FL1M-8SW-1-G24V 	FL1M-8SW-1-G24V 			€3.01 
