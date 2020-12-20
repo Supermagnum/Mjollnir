@@ -26,4 +26,7 @@ https://aisler.net/p/KQEGUYYX
 
 https://oshpark.com/shared_projects/TM2NGLFw
 
+Bill of materials:
+https://github.com/Supermagnum/Mjollnir/blob/main/bom.txt
+
 
