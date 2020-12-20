@@ -17,14 +17,12 @@ https://github.com/Supermagnum/Mjollnir/blob/main/10A-Bias-T-schem-BOM.pdf
 
 Picture of the PCB :
 
-https://github.com/Supermagnum/Mjollnir/blob/main/10A-Bias-T-front.jpg
 
 PCB's:
+https://aisler.net/p/ATXVEJSE
 
-https://aisler.net/p/KQEGUYYX
 
 
-https://oshpark.com/shared_projects/TM2NGLFw
 
 Bill of materials:
 
