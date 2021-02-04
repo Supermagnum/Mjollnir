@@ -13,9 +13,8 @@ Quoted (19 components)
 	D1 	D 	STPS10L60D 	STMicroelectronics 	to-220-2 vertical 		€1.07
 	F1 	10A 	178.6764.0001 	Littelfuse Inc. 	fuseholder blade ato littelfuse pudenz 2 pin 		€2.26
 	10A fast blow automotive fuse, blade type.
-	L2 	1140-101K-RC 	1140-101K-RC 	Bourns Inc. 	indrd2921w163d3810h2616p 		€7.18
-	L1 	1140-101K-RC 	1140-101K-RC 	Bourns Inc. 	indrd2921w163d3810h2616p 		€7.18
-	Alternative for the inductors is 2X Amidon FT140-42 with 11 turns of #16 AWG Ø1.3mm magnet wire.
+	€7.18
+	inductors is 2X Amidon FT140-42 with 11 turns of #16 AWG Ø1.3mm magnet wire.
 	C1,C2,C3,C7,C8,C9  564R2DF0D22 0.0022uF 2KV DC
 	LA1 	Lamp 	FL1M-8SW-1-G24V 	Mallory Sonalert 
 	LA1 	FL1M-8SW-1-G24V 	FL1M-8SW-1-G24V 			€3.01 
